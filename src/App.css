@@ -1,0 +1,6 @@
+.App{ display: block; margin: 0 auto; width: 1000px; padding: 10px 0; }
+.card-text{ font-size: 14px;}
+.pageInfo{ padding: 20px 0 0;}
+.pageSearchForm { margin: 0 0 20px; padding: 30px 10px 10px; }
+.btnView{ margin:10px 0 0; font-size:12px; color: #007bff;}
+span.type{ margin: 5px 0 0; text-transform: uppercase; position: absolute; display: inline-block; color: #ccc;}
